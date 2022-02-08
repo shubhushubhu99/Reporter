@@ -7,7 +7,7 @@ Instagram auto reporting tool 100% working
 ## Description
 
 this tool is made by Guccifer Shubham (shubhushubhu99) and by using this tool you can reports a targeted instagram account. It uses multi threading, therefore it reports very fast. 
-This tool is strongly recommended for educational purpose but before using this this I'll tell you this tool isn't made for illegal purpose it's just for the prank and if you're performing any illegal activities then we're not responsible for any kind of damage 
+This tool is strongly recommended for educational purpose but before using this this I'll tell you this tool isn't made for illegal purpose and if you're performing any illegal activities then we're not responsible for any kind of damage 
 
 ## Getting Started
 

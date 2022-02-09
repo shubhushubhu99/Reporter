@@ -12,8 +12,8 @@ def startMessage ():#line:7
         print (Fore .RED +'[X] Wrong Code')#line:11
         print (Fore .BLUE +''' 
    1. Go to telegram
-   2. Join http://t.me/darksquadbyshub1hacker
-   3. Send msg to the Guccifer Shubham
+   2. Join our telegram https://t.me/darksquadbyshub1hacker/647
+   3. Check pinned post of InstaReport
    4. You Will Get Code For Free
    5. Next time come with code and use this tool
     ''')#line:18
